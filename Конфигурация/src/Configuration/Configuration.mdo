@@ -39,4 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.TokenTelegram</constants>
+  <dataProcessors>DataProcessor.ПрочитатьВходящиеСообщения</dataProcessors>
 </mdclass:Configuration>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="640b7bdf-fb24-4254-b7fd-12a37601845a">
+  <producedTypes>
+    <objectType typeId="5be2e4f6-c7e9-460e-8530-0379261077eb" valueTypeId="3425b5f6-6e0c-41bb-bb5b-eff04ef46599"/>
+    <managerType typeId="30199a1a-56ff-41e3-8c0b-26a1fc168ac9" valueTypeId="70727265-0911-4808-b0bd-5eeacf5b49b1"/>
+  </producedTypes>
+  <name>ПрочитатьВходящиеСообщения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Прочитать входящие сообщения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ПрочитатьВходящиеСообщения.Form.Форма</defaultForm>
+  <forms uuid="40854017-d64c-4160-b16b-6ccfe66dfe5a">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
