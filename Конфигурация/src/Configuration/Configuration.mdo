@@ -39,6 +39,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.Telegram</commonModules>
+  <commonModules>CommonModule.WEBHTTP</commonModules>
   <constants>Constant.TokenTelegram</constants>
   <dataProcessors>DataProcessor.ПрочитатьВходящиеСообщения</dataProcessors>
 </mdclass:Configuration>
