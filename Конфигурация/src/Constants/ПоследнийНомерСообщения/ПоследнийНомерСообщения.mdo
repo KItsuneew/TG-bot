@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1bbd20a0-949c-45f4-bd34-be8945de8547">
+  <producedTypes>
+    <managerType typeId="0788a69c-2bd9-460a-a7b4-bac44f206de8" valueTypeId="7a890b9e-067e-42a0-93d1-0ae87c73094a"/>
+    <valueManagerType typeId="2ac4e5c1-6fdb-4699-aa11-547aa91f2929" valueTypeId="20de25f8-6953-4274-99c8-9811aba50138"/>
+    <valueKeyType typeId="dcf714b7-84a7-4843-a06f-6ec3e6876a61" valueTypeId="632122ee-1420-4f16-8304-503f7e6a3e1e"/>
+  </producedTypes>
+  <name>ПоследнийНомерСообщения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Последний номер сообщения</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>10</precision>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

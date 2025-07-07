@@ -42,5 +42,8 @@
   <commonModules>CommonModule.Telegram</commonModules>
   <commonModules>CommonModule.WEBHTTP</commonModules>
   <constants>Constant.TokenTelegram</constants>
+  <constants>Constant.ПоследнийНомерСообщения</constants>
+  <documents>Document.Второй</documents>
+  <documents>Document.Первый</documents>
   <dataProcessors>DataProcessor.ПрочитатьВходящиеСообщения</dataProcessors>
 </mdclass:Configuration>
