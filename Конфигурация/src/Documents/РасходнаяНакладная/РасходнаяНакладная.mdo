@@ -7,13 +7,13 @@
     <listType typeId="4b90784a-ba9b-4a1d-9e6e-f294da2b6a4c" valueTypeId="10a00dc4-d9ff-4a0e-90d9-06f5f218ef82"/>
     <managerType typeId="b78dcec8-5587-4371-8b19-b10c44ed12a6" valueTypeId="507cfed0-e25b-4674-b819-839b0767f7d8"/>
   </producedTypes>
-  <name>Первый</name>
+  <name>РасходнаяНакладная</name>
   <synonym>
     <key>ru</key>
-    <value>Первый</value>
+    <value>Расходная накладная</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.Первый.StandardAttribute.Number</inputByString>
+  <inputByString>Document.РасходнаяНакладная.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
